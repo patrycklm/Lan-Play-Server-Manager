@@ -48,7 +48,6 @@ namespace WindowsFormsApp2
             LoadPmtu();
             txtVersion.Text = versionActual;
             lbStatus.BringToFront();
-            VerificarVersion();
         }
 
         private void VerificarVersion()
@@ -90,7 +89,7 @@ namespace WindowsFormsApp2
 
         private void ObtenerIdiomas()
         {
-            string lenguages = DownloadStringServer("https://raw.githubusercontent.com/Urferu/Lan-Play-Server-Manager/master/Lenguages/LengugesDisp.json");
+            string lenguages = DownloadStringServer("https://raw.githubusercontent.com/patrycklm/Lan-Play-Server-Manager/master/Lenguages/LengugesDisp.json");
             idiomas = stdClassCSharp.jsonToStdClass(lenguages);
             int indice = 0;
             int indiceIdioma = 0;
@@ -117,7 +116,7 @@ namespace WindowsFormsApp2
                     selectedLenguage = lenguage["abbreviation"];
                 }
             }
-            string lenguageData = DownloadStringServer("https://raw.githubusercontent.com/Urferu/Lan-Play-Server-Manager/master/Lenguages/"+ selectedLenguage + ".json");
+            string lenguageData = DownloadStringServer("https://raw.githubusercontent.com/patrycklm/Lan-Play-Server-Manager/master/Lenguages/" + selectedLenguage + ".json");
             if(!string.IsNullOrWhiteSpace(lenguageData))
             {
                 stdClassCSharp datosDelIdioma = stdClassCSharp.jsonToStdClass(lenguageData);
@@ -587,7 +586,7 @@ namespace WindowsFormsApp2
 
         private void materialRaisedButton4_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/Urferu/Lan-Play-Server-Manager/releases");
+            Process.Start("https://github.com/patrycklm/Lan-Play-Server-Manager/raw/master/Release.rar");
         }
 
         private void ObtenerEstatusDatos(string servidor,ref string estado, ref string latencia)
@@ -730,7 +729,7 @@ namespace WindowsFormsApp2
             string server = "";
             string ubicacion = "";
             int indice = 0;
-            string serversDatos = DownloadStringServer("https://raw.githubusercontent.com/Urferu/Lan-Play-Server-Manager/master/Servers/Servers.txt");
+            string serversDatos = DownloadStringServer("http://177.54.110.45/Lan-Play-Server-Manager/Servers.txt");
             if (!string.IsNullOrWhiteSpace(serversDatos))
             {
                 servers.AddRange(serversDatos.Split('\n'));

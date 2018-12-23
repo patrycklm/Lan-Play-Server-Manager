@@ -1,0 +1,10 @@
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\bin\Release\Lan-Play-Server-Manager.exe.config
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\bin\Release\Lan-Play-Server-Manager.exe
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\bin\Release\Lan-Play-Server-Manager.pdb
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\bin\Release\MaterialSkin.dll
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\obj\Release\WindowsFormsApp2.formCreditos.resources
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\obj\Release\WindowsFormsApp2.FormPrincipal.resources
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\obj\Release\Lan-Play-Server-Manager.exe
+C:\Users\Patryck Leite\Desktop\SERVER MANAGER\Lan-Play-Server-Manager-1.1.0\Lan-Play-Server-Manager-1.1.0\WindowsFormsApp2\obj\Release\Lan-Play-Server-Manager.pdb

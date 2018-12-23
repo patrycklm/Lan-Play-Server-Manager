@@ -27,16 +27,10 @@ namespace WindowsFormsApp2
             materialLabel3.Text = LenguagesManager.StringsCreditsLenguages.SupportedBy;
             materialLabel4.Text = LenguagesManager.StringsCreditsLenguages.FollowOn;
 
-            LinkLabel.Link linkDiscord = new LinkLabel.Link();
-            linkDiscord.LinkData = "https://discord.gg/q6hdKc8";
-            LinkLabel.Link linkRadikal = new LinkLabel.Link();
-            linkRadikal.LinkData = "http://www.radikal-gamez.net/forums/juegos-switch.196/";
-            linkLabel2.Links.Add(linkRadikal);
-        }
+                  }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start(e.Link.LinkData as string);
         }
     }
 }

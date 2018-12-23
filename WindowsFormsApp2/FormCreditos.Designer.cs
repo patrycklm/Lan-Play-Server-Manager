@@ -108,7 +108,7 @@
             this.linkLabel1.Size = new System.Drawing.Size(143, 18);
             this.linkLabel1.TabIndex = 17;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "ModGames Discord";
+            this.linkLabel1.Text = "Patrycklm";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // linkLabel2
@@ -121,7 +121,7 @@
             this.linkLabel2.Size = new System.Drawing.Size(111, 18);
             this.linkLabel2.TabIndex = 18;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "Radikal-Gamez";
+            this.linkLabel2.Text = "patrycklm@me.com";
             this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // formCreditos
