@@ -13,20 +13,16 @@
         "ShowConsoleToolTip": "Mostrar as informações do console lan-play",
         "Credits": "Mostrar as informações do console lan-play",
         "ButtonCredits": "Créditos",
-        "LanPlayConsoleLabel": "Aqui está o que lança o console lan play",
+        "LanPlayConsoleLabel": "",
         "HeaderServer": "Servidor",
         "HeaderLocation": "Localização",
         "HeaderStatus": "Status",
         "HeaderUsers": "Conectado",
-        "HeaderPing": "Ping",
-        "checkAutoInterfaz": "selecionar interface",
-            "UpdateMessage": "Existe uma nova versão. \nQuer atualizar?",
-            "ButtonLastVersionLP": "Última versão",
-            "ToolTipLastVersionLP": "Obtenha a última versão do Lan-Play"
+        "HeaderPing": "Ping"
     },
     "StringsCreditsLenguages": {
-        "DesignedBy": "Projetado por: D3fau4",
-        "DevelopedBy": "Desenvolvido por: Urferu",
+        "DesignedBy": "Projetado por: Patrycklm",
+        "DevelopedBy": "Desenvolvido por: Patrycklm",
         "ListServers": "Lista de servidores por: Clock",
         "SupportedBy": "Distribuído e apoiado por:",
         "FollowOn": "Siga-nos no:"
