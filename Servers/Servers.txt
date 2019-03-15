@@ -1,3 +1,4 @@
 177.54.110.45, BR (Oficial)
-35.236.10.223, US (Switch)
 nswbr.ddns.net, BR (Alternativo)
+lanplay.retrogamer.tech, RETROGAMER
+177.54.110.25, BR TESTE
