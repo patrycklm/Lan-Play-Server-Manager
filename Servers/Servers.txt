@@ -1,3 +1,4 @@
 lanplay.duckdns.org, BR (Oficial DDNS)
 177.54.110.226, BR (Oficial - IP)
 177.54.110.25, BR TESTE
+35.238.10.79, BR 2GB (TESTE)
